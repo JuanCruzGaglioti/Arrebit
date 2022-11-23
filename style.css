@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background: lightgray;
+}
+
+.bg {
+    text-align: center;
+    padding: 10px;
+    height: 100vh;
+    background-size: cover;
+    box-sizing: border-box;
+    display: flex;
+    filter: blur(8px);
+
+}
+
+.bg-text {
+    color: black;
+    font-weight: bold;
+    border: 3px solid;
+    position: absolute;
+   text-align: center;
+    padding: 15px;
+    width: 80%;
+    top: 50%;
+    font-family: 'Rubik Mono One', sans-serif;;
+}
+
+footer {
+    background: black;
+    padding: 20px 0;
+    color: white;
+    margin-top: 40px;
+}
+
+.home {
+   background-image: url(image/MacBook-and-Airpods.jpg); 
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+}
